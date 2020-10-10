@@ -36,5 +36,35 @@ function promptUser() {
             message: "What role is this employee?",
             choices: ["Engineer", "Intern", "Manager"]
         }
-    ])
+    ]);
+}
+
+function promptEngineer() {
+    return inquirer.prompt([
+        {
+            type: "input",
+            name: "github",
+            message: "What is this engineer's github profile?"
+        }
+    ]);
+}
+
+function promptIntern() {
+    return inquirer.prompt([
+        {
+            type: "input",
+            name: "school",
+            message: "What school does this intern attend?"
+        }
+    ]);
+}
+
+function promptManager() {
+    return inquirer.prompt([
+        {
+            type: "input",
+            name: "officeNumber",
+            message: "What office number does this manager reside?"
+        }
+    ]);
 }
