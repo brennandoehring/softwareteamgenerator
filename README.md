@@ -2,12 +2,12 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
-  - [Description] (#description)
-  - [Installation] (#installation)
-  - [Usage] (#usage)
-  - [License] (#license)
-  - [Contributing] (#contributing)
-  - [Questions] (#questions)
+  - [Description](https://github.com/brennandoehring/softwareteamgenerator#description)
+  - [Installation](https://github.com/brennandoehring/softwareteamgenerator#installation)
+  - [Usage](https://github.com/brennandoehring/softwareteamgenerator#usage)
+  - [License](https://github.com/brennandoehring/softwareteamgenerator#license)
+  - [Contributors](https://github.com/brennandoehring/softwareteamgenerator#contributors)
+  - [Questions](https://github.com/brennandoehring/softwareteamgenerator#questions)
 
   ## Description 
   A simple command line application that prompts the user for information about the team manager as well as the team members. Once team info has been input, an HTML file will be generated that displays the team roster based on the information given.
@@ -22,7 +22,7 @@
   This project is licensed under MIT.
 
   ## Contributors
-  Me
+  I was the only contributor to this project.
 
   ## Questions
   If you have any questions please contact me at nannerbdale@gmail.com. My github profile username is bddoehring.
